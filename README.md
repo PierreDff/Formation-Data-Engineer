@@ -24,7 +24,7 @@
 
 <p align="center">
   📍 Douai · Lille area, France &nbsp;·&nbsp;
-  <a href="#">LinkedIn:https://www.linkedin.com/in/pierre-deffrennes-80b1215b/</a> &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/pierre-deffrennes-80b1215b/">LinkedIn</a> &nbsp;·&nbsp;
   <a href="mailto:pierre.deffrennes@gmail.com">Email</a> &nbsp;·&nbsp;
   <a href="https://github.com/PierreDff">GitHub</a>
 </p>
